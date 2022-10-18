@@ -17,5 +17,5 @@ User portal, data used sql
 * ```/api/v1/user/changePassword?uid=id```   
   Change user password by verifying the old password.
   
-* ```/api/v1/user?uid=id```    
+* ```/api/v1/user/update?uid=id```    
   Updates the user details for that particular id
